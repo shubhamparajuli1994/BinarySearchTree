@@ -1,1 +1,1 @@
-# BinarySearchTree
+# Balanced BinarySearchTree
